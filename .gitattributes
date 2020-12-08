@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.fig binary
 *.mat binary
 *.mdl binary
@@ -26,3 +27,7 @@
 *.pdf binary
 *.png binary
 *.xlsx binary
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> c4436d8d18c92616d99c665ff8ce05f05c3ac1f3
